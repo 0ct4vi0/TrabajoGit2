@@ -1,0 +1,24 @@
+[33mcommit 8248ff7a6d2e670d47912d7d305487e43bcf8521[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 3867dd2 d870f1d
+Author: Octavio Rolon <octaviorolonh@gmail.com>
+Date:   Fri Aug 30 17:38:03 2024 -0300
+
+    Merge branch 'rama-branch'
+
+[33mcommit d870f1dc69a12aa7a8b0f0504c3fe211f19dc6f7[m[33m ([m[1;32mrama-branch[m[33m)[m
+Author: Octavio Rolon <octaviorolonh@gmail.com>
+Date:   Fri Aug 30 17:25:01 2024 -0300
+
+    cambio en la rama
+
+[33mcommit 3867dd2253b5935ef63d777d235337fe9a1fc168[m
+Author: Octavio Rolon <octaviorolonh@gmail.com>
+Date:   Fri Aug 30 17:23:05 2024 -0300
+
+    Added a line in main branch
+
+[33mcommit 3c845e799dfca9de72976cd93ee704885e60dcc2[m
+Author: Octavio.R <142610249+0ct4vi0@users.noreply.github.com>
+Date:   Fri Aug 30 17:10:13 2024 -0300
+
+    Initial commit
